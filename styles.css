@@ -58,3 +58,15 @@
 .padd{
     padding: 3%;
 }
+.cheddar{
+    display: flex;
+    justify-content: space-between;
+}
+.distance_after_l{
+    color:rgb(61, 58, 58);
+    margin-top: -14px;
+}
+.distance_after_p{
+    margin-bottom: -6px;
+    color:rgb(61, 58, 58);
+}
